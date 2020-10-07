@@ -1,0 +1,6 @@
+com\mycompany\padraoprojetostrategyboletosbancarios\Main.class
+com\mycompany\padraoprojetostrategyboletosbancarios\LeituraRetorno.class
+com\mycompany\padraoprojetostrategyboletosbancarios\LeituraRetornoBancoDoBradesco.class
+com\mycompany\padraoprojetostrategyboletosbancarios\ProcessarBoletos.class
+com\mycompany\padraoprojetostrategyboletosbancarios\Boleto.class
+com\mycompany\padraoprojetostrategyboletosbancarios\LeituraRetornoBancoDoBrasil.class
